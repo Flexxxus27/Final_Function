@@ -41,26 +41,26 @@ int main() {
 	int n, m;
 
 	//Задача 1. Тип данных числа
-	/*
+	
 	std::cout << "Задача 1.\n";
 	std::cout << "7 - "; typeof(7);
 	std::cout << "0.15 - "; typeof(0.15);
 	std::cout << "'E' - "; typeof('E');
 	std::cout << std::endl;
-	*/
+	
 
 	//Задача 2. Рекурсивная сумма диапазона
-	/*
+	
 	std::cout << "Задача 2.\n";
 	std::cout << "Введите начало диапазона -> ";
 	std::cin >> n;
 	std::cout << "Введите конец диапазона -> ";
 	std::cin >> m;
 	std::cout << "Сумма чисел от " << n << " до " << m << " = " << sum_AB(n, m) << "\n\n";
-	*/
+	
 
 	//Задача 3. Сортировка середины
-	/*
+	
 	std::cout << "Задача 3.\n";
 	std::cout << "Изначальный массив:\n";
 	const int size3 = 10;
@@ -71,7 +71,7 @@ int main() {
 	middle_sort(arr3, size3);
 	std::cout << "Итоговый массив:\n";
 	print_arr(arr3, size3);
-	*/
+	
 
 	//Задача 4. Циклический сдвиг
 	std::cout << "Задача 4.\n";
